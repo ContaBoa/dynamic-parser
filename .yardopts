@@ -1,0 +1,3 @@
+--no-private
+--title "Dynamic Parser"
+--exclude version --exclude config_generator

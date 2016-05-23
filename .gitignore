@@ -1,0 +1,9 @@
+.env
+doc/
+.yardoc/
+pkg/
+Gemfile.lock
+*.DS_Store
+.bundle/
+coverage/
+*.gem
