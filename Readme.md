@@ -10,7 +10,7 @@ Install
 
 Just add it to your Gemfile - not really
 ```ruby
-  gem 'dynamic_parser', github: 'agentevirtual/dynamic_parser'
+  gem 'dynamic_parser', github: 'ContaBoa/dynamic_parser'
 ```
 
 Use
