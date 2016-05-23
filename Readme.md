@@ -8,9 +8,9 @@ Dynamic Parser
 Install
 =======
 
-Just add it to your Gemfile - not really
+Just add it to your Gemfile, and then run `bundle` on your project:
 ```ruby
-  gem 'dynamic_parser', github: 'ContaBoa/dynamic_parser'
+  gem 'dynamic_parser', '0.0.2'
 ```
 
 Use
